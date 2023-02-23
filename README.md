@@ -202,7 +202,7 @@
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hermes-garcia&hide_border=true" alt="Hermes' Github Streak stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hermes-garcia" alt="Hermes' Github Streak stats" />
 </details>
 
 ###
