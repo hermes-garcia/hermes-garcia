@@ -193,8 +193,8 @@
   <summary><b>⚡ Github Stats</b></summary>
   <br />
 
-| <a href="http://www.github.com/hermes-garcia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hermes-garcia&show_icons=true&count_private=true&hide=issues,contribs&theme=buefy" alt="Hermes' Github Stats" /></a> | <a href="http://www.github.com/hermes-garcia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermes-garcia&layout=compact&theme=vue&langs_count=6" /></a> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="http://www.github.com/hermes-garcia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hermes-garcia&show_icons=true&count_private=true&hide=issues,contribs&theme=buefy&hide_border=true" alt="Hermes' Github Stats" /></a> | <a href="http://www.github.com/hermes-garcia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermes-garcia&layout=compact&theme=vue&langs_count=6&hide_border=true" /></a>  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </details>
 
