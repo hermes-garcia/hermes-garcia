@@ -212,5 +212,3 @@
 </div>
 
 ###
-
-![](https://visitor-badge.glitch.me/badge?page_id=hermes-garcia.hermes-garcia&left_color=black)
