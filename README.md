@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Hermes Garcia
-#### I am an enthusiastic software engineer from Mexico, doing apps and web stuff
+**I am an enthusiastic software engineer from Mexico, doing apps and web stuff**
 
 **About me**
 - ❤️ I love coding on interesting projects
 - 🛠 Currently working with NextJS, React, NestJS, Adobe Commerce and others
 - 🤝 Open to collaborate on awesome projects
 - ✉️ Reach me out at [hermes@hermesgarcia.com](mailto:hermes@hermesgarcia.com)
-
 
 
 ### Languages & Frameworks
@@ -52,6 +51,8 @@
 </div>
 </div>
 
+<br />
+
 ### Tools that I love
 
 <div align="center">
@@ -68,7 +69,6 @@
 <a href="https://www.namecheap.com/" target="_blank" rel="noreferrer">
 <img src="https://camo.githubusercontent.com/f0aa0aee94db54a325cc1b7431b49e523765dd89ec00b33f1895b10414311c73/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e616d65636865617026636f6c6f723d444533373233266c6f676f3d4e616d656368656170266c6f676f436f6c6f723d464646464646266c6162656c3d" width="90" alt="Namecheap Badge" />
 </a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="65" alt="MySQL Badge" />
 </a>
@@ -111,24 +111,20 @@
 <a href="https://slack.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="65" alt="Slack Badge" />
 </a>
-
 </div>
 </div>
 
-### 
+<br/>
 <div align="center">
 <em>I code for a living, but I laugh for free.<br>Sometimes I even write code that makes me laugh, and then I know I'm doing it right.</em>
 </div>
+
+
 
 ### ⚡ Github Stats
 
 | <a href="http://www.github.com/hermes-garcia"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hermes-garcia&hide_border=true" alt="Hermes' Github Streak stats" /></a> | <a href="http://www.github.com/hermes-garcia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermes-garcia&layout=compact&theme=vue&langs_count=6&hide_border=true" alt="Hermes' Top Langs stats" /></a>  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-### 
-
-<div align="center">
-<h3> Show some ❤️ by starring some repositories!</h3>
-</div>
-
-### 
+<br/>
+<p align="center"><b>Show some ❤️ by starring some repositories!</b></p>
