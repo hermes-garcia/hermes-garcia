@@ -3,7 +3,6 @@
 
 **About me**
 - ❤️ I love coding on interesting projects
-- 🛠 Currently working with NextJS, React, NestJS, Adobe Commerce and others
 - 🤝 Open to collaborate on awesome projects
 - ✉️ Reach me out at [hermes@hermesgarcia.com](mailto:hermes@hermesgarcia.com)
 
@@ -17,6 +16,16 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" width="72" alt="Docker Badge" />
 </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="50" alt="PHP Badge" />
+</a>
+<a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank" rel="noreferrer">
+<img src="https://camo.githubusercontent.com/4124f925b1d15da7ea009d3b6e3c973b81f61e946508d38220738d39e61b88cd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6167656e746f26636f6c6f723d454536373246266c6f676f3d4d6167656e746f266c6f676f436f6c6f723d464646464646266c6162656c3d" width="78" alt="Magento Badge" />
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="74" alt="Laravel Badge" />
+</a>
+  
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="92" alt="TypeScript Badge" />
 </a>
@@ -32,21 +41,9 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="70" alt="NextJS Badge" />
 </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="50" alt="PHP Badge" />
-</a>
-<a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank" rel="noreferrer">
-<img src="https://camo.githubusercontent.com/4124f925b1d15da7ea009d3b6e3c973b81f61e946508d38220738d39e61b88cd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6167656e746f26636f6c6f723d454536373246266c6f676f3d4d6167656e746f266c6f676f436f6c6f723d464646464646266c6162656c3d" width="78" alt="Magento Badge" />
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="74" alt="Laravel Badge" />
-</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="55" alt="CSS Badge" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://camo.githubusercontent.com/5d16e7fdd964ebca50ca82d6c8b081045630340427c463f4470050acd4e50ef3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5461696c77696e642b43535326636f6c6f723d323232323232266c6f676f3d5461696c77696e642b435353266c6f676f436f6c6f723d303642364434266c6162656c3d" width="104" alt="Tailwind Badge" />
 </a>
 </div>
 </div>
@@ -65,9 +62,6 @@
 </a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" width="92" alt="Cloudflare Badge" />
-</a>
-<a href="https://www.namecheap.com/" target="_blank" rel="noreferrer">
-<img src="https://camo.githubusercontent.com/f0aa0aee94db54a325cc1b7431b49e523765dd89ec00b33f1895b10414311c73/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e616d65636865617026636f6c6f723d444533373233266c6f676f3d4e616d656368656170266c6f676f436f6c6f723d464646464646266c6162656c3d" width="90" alt="Namecheap Badge" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="65" alt="MySQL Badge" />
@@ -89,9 +83,6 @@
 </a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" width="118" alt="Github Actions Badge" />
-</a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer">
-<img src="https://camo.githubusercontent.com/5e8e465612d10ddb4831b853b21cf9763eeb9f004b73f0fb7420ba8df14951c3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d53747269706526636f6c6f723d303038434444266c6f676f3d537472697065266c6f676f436f6c6f723d464646464646266c6162656c3d" width="68" alt="Stripe Badge" />
 </a>
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width="65" alt="Nginx Badge" />
